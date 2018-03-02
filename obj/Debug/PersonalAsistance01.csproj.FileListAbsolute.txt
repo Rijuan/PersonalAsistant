@@ -1,0 +1,17 @@
+D:\Net\PersonalAsistance01\PersonalAsistance01\bin\Debug\PersonalAsistance01.exe.config
+D:\Net\PersonalAsistance01\PersonalAsistance01\bin\Debug\PersonalAsistance01.exe
+D:\Net\PersonalAsistance01\PersonalAsistance01\bin\Debug\PersonalAsistance01.pdb
+D:\Net\PersonalAsistance01\PersonalAsistance01\obj\Debug\PersonalAsistance01.Properties.Resources.resources
+D:\Net\PersonalAsistance01\PersonalAsistance01\obj\Debug\PersonalAsistance01.csproj.GenerateResource.Cache
+D:\Net\PersonalAsistance01\PersonalAsistance01\obj\Debug\PersonalAsistance01.exe
+D:\Net\PersonalAsistance01\PersonalAsistance01\obj\Debug\PersonalAsistance01.pdb
+D:\Net\PersonalAsistance01\PersonalAsistance01\obj\Debug\PersonalAsistance01.csprojResolveAssemblyReference.cache
+D:\Net\PersonalAsistance01\PersonalAsistance01\obj\Debug\PersonalAsistance01.Form1.resources
+D:\Net\PersonalAsistance01\PersonalAsistance01\bin\Debug\Interop.WMPLib.dll
+D:\Net\PersonalAsistance01\PersonalAsistance01\bin\Debug\AxInterop.WMPLib.dll
+D:\Net\PersonalAsistance01\PersonalAsistance01\obj\Debug\Interop.WMPLib.dll
+D:\Net\PersonalAsistance01\PersonalAsistance01\obj\Debug\AxInterop.WMPLib.dll
+D:\Net\PersonalAsistance01\PersonalAsistance01\obj\Debug\PersonalAsistance01.csproj.ResolveComReference.cache
+D:\Net\PersonalAsistance01\PersonalAsistance01\obj\Debug\PersonalAsistance01.Form2.resources
+D:\Net\PersonalAsistance01\PersonalAsistance01\obj\Debug\PersonalAsistance01.Form3.resources
+D:\Net\PersonalAsistance01\PersonalAsistance01\obj\Debug\PersonalAsistance01.Notepad.resources

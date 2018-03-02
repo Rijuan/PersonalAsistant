@@ -1,0 +1,28 @@
+browse
+browse file
+file browse
+exit
+close
+show playlist
+playlist
+playlist show
+hide playlist
+playlist hide
+fullscreen
+off fullscreen
+next
+pause
+previous
+play
+minimize
+maximize
+restore down
+stop
+fast forward
+forward fast
+fast reverse
+reverse fast
+increase volume
+volume increase
+decrease volume
+volume decrease
